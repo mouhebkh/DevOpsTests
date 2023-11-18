@@ -1,2 +1,2 @@
 # DevOpsTests
-Repor for educationnal purpose
+A repo for educationnal purpose
