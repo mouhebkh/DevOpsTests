@@ -1,2 +1,2 @@
 # DevOpsTests
-A repo for DevOps purpose
+A repo for DevOps purpose.
